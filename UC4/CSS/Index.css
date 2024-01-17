@@ -1,0 +1,105 @@
+
+/* Header */
+.divheader {
+    display: flex;
+    align-items: center;
+}
+.divheader img {
+    margin-left: 3vh;
+    margin-right: 2vh; /* Espaçamento entre a imagem e o texto (ajuste conforme necessário) */
+}
+#itensnavbar {
+    margin-left: 4vh;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.navbar-nav .nav-link {
+    margin-right: 5vh; /* Ajuste o espaçamento entre os itens conforme necessário */
+}
+/* Header */
+
+
+
+.h1{
+    font-size: 2009px;
+}
+
+#bgcolor{
+    background-color: #531232;
+}
+
+
+
+
+
+
+
+
+/* footer */
+#footer{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3 5vh;
+    margin: 0;
+    color: aliceblue;
+    background-color: #531232;
+}
+/* footer */
+
+
+
+/* footer esquerdo */
+.container {
+    margin-top: 1vh;
+    margin-left: 7vh;
+    margin: 0 0 0 10vh 0;
+}
+.social-images {
+    margin-left: 2vh;
+    display: flex;
+    justify-content: left;
+    margin-top: 10px;
+}
+.social-images img {
+    margin: 0 5px;
+    max-width: 30px; /* Ajuste o tamanho conforme necessário */
+    max-height: 30px;/* Ajuste o tamanho conforme necessário */
+}
+/* footer esquerdo */ 
+
+
+
+/* footer direito */ 
+.container h1 {
+    text-align: left;
+    font-size: 24px;
+    margin: 0;
+}
+.contact-section {
+    margin-left: 3vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-top: 10px;
+}
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.contact-item img {
+    
+    max-width: 30px; /* Ajuste o tamanho conforme necessário */
+    max-height: 30px;
+    margin-right: 10px; /* Espaçamento entre imagem e texto */
+}
+.contact-item p {
+    margin: 0; /* Remover a margem padrão do parágrafo */
+    line-height: 30px; /* Ajuste conforme necessário para centralizar verticalmente */
+}
+/* footer direito */ 
