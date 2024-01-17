@@ -23,6 +23,6 @@ Gostaríamos de expressar nossos sinceros agradecimentos:
 |Nome|Email|Github|
 | -------- | -------- | -------- |
 |Julia Mayumi|adicionar gmail| -------- |
-|Yuri Silva|adicionar gmail|yuri522|
+|Yuri Silva|yuri.gsj1@gmail.com|yuri522|
 |João Victor|adicionar gmail| -------- |
-|Santiago Castrillon|adicionar gmail|san2003|
+|Santiago Castrillon|santiagocastrillonprof@gmail.com|san2003|
