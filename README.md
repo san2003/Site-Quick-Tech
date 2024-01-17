@@ -20,9 +20,9 @@ Gostaríamos de expressar nossos sinceros agradecimentos:
 - A todos os participantes do projeto Quick Tech: Julia Mayumi, Yuri Silva, João Victor, e Santiago Castrillon, pela dedicação e esforço coletivo.
 
 ### Participante: 
-|Nome|Email|
-| -------- | -------- |
-|Julia Mayumi|adicionar gmail|
-|Yuri Silva|adicionar gmail|
-|João Victor|adicionar gmail|
-|Santiago Castrillon|adicionar gmail|
+|Nome|Email|Github|
+| -------- | -------- | -------- |
+|Julia Mayumi|adicionar gmail| -------- |
+|Yuri Silva|adicionar gmail|yuri522|
+|João Victor|adicionar gmail| -------- |
+|Santiago Castrillon|adicionar gmail|san2003|
