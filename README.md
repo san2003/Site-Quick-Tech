@@ -24,5 +24,5 @@ Gostaríamos de expressar nossos sinceros agradecimentos:
 | -------- | -------- | -------- |
 |Julia Mayumi|adicionar gmail| -------- |
 |Yuri Silva|yuri.gsj1@gmail.com|yuri522|
-|João Victor|adicionar gmail| -------- |
+|João Victor| joaovictorizidrodesousa@gmail.com|Johnizidro|
 |Santiago Castrillon|santiagocastrillonprof@gmail.com|san2003|
