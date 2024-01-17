@@ -22,7 +22,7 @@ Gostaríamos de expressar nossos sinceros agradecimentos:
 ### Participante: 
 |Nome|Email|Github|
 | -------- | -------- | -------- |
-|Julia Mayumi|adicionar gmail| -------- |
+|Julia Mayumi|juliamayumitsu@gmail.com|JuliaMayumi05|
 |Yuri Silva|yuri.gsj1@gmail.com|yuri522|
 |João Victor| joaovictorizidrodesousa@gmail.com|Johnizidro|
 |Santiago Castrillon|santiagocastrillonprof@gmail.com|san2003|
