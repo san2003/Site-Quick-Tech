@@ -1,4 +1,58 @@
 
+/* Paleta de cores: */
+
+
+/* Cor header: # 171720*/
+/* Cor footer: #13131B */
+/* Cor fundo: #F0F0F0 */
+/* Detalhes escuro: #EF743B */
+/* Detalhes claro: #FBA344 */
+
+
+/* Paleta de cores: */
+
+
+/* cores */
+
+#pagebg{
+    background-color: #F6F6F7;
+}
+
+#bgcolor{
+    background-color: #171720;
+}
+
+/* cores */
+
+
+
+
+
+/* Conteúdo do arquivo fontes.css */
+@font-face {
+    font-family: 'Lato'; /* Dê um nome significativo à sua fonte */
+    src: url('Fonts/Lato/Lato-Black.ttf') format('ttf'); /* Substitua pelo caminho real até o arquivo WOFF */
+    /* Adicione outros formatos se desejar suporte cruzado do navegador */
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: 'Lato', sans-serif; /* Use a fonte em todo o corpo do documento */
+}
+h1, h2, h3, h4, p {
+    font-family: 'Lato', sans-serif;
+    /* Outras regras de estilo conforme necessário */
+}
+
+/* Conteúdo do arquivo fontes.css */
+
+
+
+
+
+
+
+
 /* Header */
 .divheader {
     display: flex;
@@ -28,9 +82,61 @@
     font-size: 2009px;
 }
 
-#bgcolor{
-    background-color: #531232;
+
+
+
+/* Botões */
+
+.botaoico {
+    border: #13131B;
+    width: 35px;
+    height: 35px;
+    padding: 10px 10px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 7px;
+    background-color: #FBA344; /* Cor inicial */
+    color: #ffffff;
+    overflow: hidden;
 }
+
+
+.botaoico_comhover {
+    border: #13131B;
+    padding: 10px 10px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    background-color: #FBA344; /* Cor inicial */
+    color: #ffffff;
+    transition: background-color 0.4s; /* Adiciona uma transição suave */
+}
+
+.botaoico_comhover:hover {
+    background-color: #FF8C00; /* Cor ao passar o mouse */
+}
+
+.color-change-button {
+    border: #13131B;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    background-color: #FBA344; /* Cor inicial */
+    color: #ffffff;
+    transition: background-color 0.4s; /* Adiciona uma transição suave */
+}
+
+.color-change-button:hover {
+    background-color: #FF8C00; /* Cor ao passar o mouse */
+}
+/* Botões */
+
 
 
 
@@ -47,23 +153,35 @@
     height: 3 5vh;
     margin: 0;
     color: aliceblue;
-    background-color: #531232;
+    background-color: #13131B;
 }
 /* footer */
 
 
 
 /* footer esquerdo */
+.h4footer {
+    margin-top: 20px;
+    margin-left: 1vh;
+}
+.caixadetextofooter {
+    width: 50%;
+    height: auto;
+}
+.textofooter {
+    text-align: justify;
+    font-size: 15px;
+}
 .container {
     margin-top: 1vh;
     margin-left: 7vh;
     margin: 0 0 0 10vh 0;
 }
 .social-images {
-    margin-left: 2vh;
+    margin-top: 10px;
+    margin-left: 3vh;
     display: flex;
     justify-content: left;
-    margin-top: 10px;
 }
 .social-images img {
     margin: 0 5px;
@@ -94,12 +212,18 @@
 }
 .contact-item img {
     
-    max-width: 30px; /* Ajuste o tamanho conforme necessário */
-    max-height: 30px;
+    max-width: 40px; /* Ajuste o tamanho conforme necessário */
+    max-height: 40px;
     margin-right: 10px; /* Espaçamento entre imagem e texto */
 }
 .contact-item p {
     margin: 0; /* Remover a margem padrão do parágrafo */
     line-height: 30px; /* Ajuste conforme necessário para centralizar verticalmente */
+}
+.localmargin{
+    margin-left: -5px;
+}
+.localmargin2{
+    margin-left: -3px;
 }
 /* footer direito */ 
