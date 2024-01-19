@@ -12,6 +12,11 @@ O projeto Quick Tech foi desenvolvido utilizando as seguintes tecnologias:
 - **JavaScript:** Linguagem de programação para interatividade e dinamismo.
 - **Bootstrap:** Framework de design para facilitar o desenvolvimento de interfaces responsivas.
 
+## Nossa paleta de cores
+
+![Paletadecores](UC4/Imagens/Paleta_de_cores.png)
+---
+
 ## Agradecimentos
 Gostaríamos de expressar nossos sinceros agradecimentos:
 
