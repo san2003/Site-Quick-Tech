@@ -1,4 +1,7 @@
-# Quick Tech
+<p align="center">
+  <img src="UC4/Imagens/QT_blb.png" width="50%">
+</p>
+
 Este é o Site criado para o Projeto integrador do SENAC, feito pelo nosso time, Quick tech, uma empresa inovadora, que trabalhará com manutenções e consultoria para Desktop e Notebooks, onde iremos atender tanto pessoas físicas como pessoas jurídicas, teremos nossa loja física, e também atenderemos a domicílio, seremos uma EPP (Empresa de pequeno porte) com foco na qualidade do atendimento para nossos clientes.
 
 ## Em Desenvolvimento
