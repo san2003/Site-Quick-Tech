@@ -2,8 +2,7 @@
 /* Paleta de cores: */
 
 
-/* Cor header: # 171720*/
-/* Cor footer: #13131B */
+/* Cor header e footer: # 171720*/
 /* Cor fundo: #F0F0F0 */
 /* Detalhes escuro: #EF743B */
 /* Detalhes claro: #FBA344 */
@@ -19,7 +18,7 @@
 }
 
 #bgcolor{
-    background-color: #171720;
+    background-color: #171721;
 }
 
 /* cores */
@@ -63,6 +62,7 @@ h1, h2, h3, h4, p {
     margin-right: 2vh; /* Espaçamento entre a imagem e o texto (ajuste conforme necessário) */
 }
 #itensnavbar {
+    margin-top: 8px;
     margin-left: 4vh;
     width: auto;
     height: auto;
@@ -153,7 +153,7 @@ h1, h2, h3, h4, p {
     height: 3 5vh;
     margin: 0;
     color: aliceblue;
-    background-color: #13131B;
+    background-color: #171723;
 }
 /* footer */
 
