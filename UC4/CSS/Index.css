@@ -114,6 +114,12 @@ body {
     color: aliceblue;
     background-color: #171723;
 }
+
+@media screen and (max-width: 768px) {
+    #footer {
+        margin-left: -7.5%;
+    }
+}
 /* footer */
 
 
